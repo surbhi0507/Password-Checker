@@ -1,0 +1,2 @@
+# Password-Checker
+Developed using python and it's libraries like requests and hashlib, hashing algorithm(SHA-1). The motive of Password Checker is to provide with security and give information about how many times a password that we are going to keep has been hacked or is insecure to use. It's the most secure way (based on K anonymity) to check if our passwords have ever been hacked and how many times it has been hacked &amp; to prevent us from dictionary attacks and much more.
